@@ -1,4 +1,4 @@
-Projeto de Exibição de Vídeos com Azure CosmosDB e Azure Functions
+# Projeto de Exibição de Vídeos com Azure CosmosDB e Azure Functions
 
 <div style="text-align: center;">
 	<img src="https://img.shields.io/badge/.NET%208-333333?style=flat&logo=.net&logoColor=white" alt=".NET 8" />
