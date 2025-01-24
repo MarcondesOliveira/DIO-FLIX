@@ -1,10 +1,11 @@
 Projeto de Exibição de Vídeos com Azure CosmosDB e Azure Functions
 
-<img src="https://img.shields.io/badge/.NET%208-333333?style=flat&logo=.net&logoColor=white" alt=".NET 8" />
-<img src="https://img.shields.io/badge/Azure-Functions-0078D7?style=flat&logo=azure-functions&logoColor=white" alt="Azure Functions" />
-<img src="https://img.shields.io/badge/Azure-CosmosDB-0078D7?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure CosmosDB" />
-<img src="https://img.shields.io/badge/Azure-Storage_Account-0078D7?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Storage Account" />
-
+<div style="text-align: center;">
+	<img src="https://img.shields.io/badge/.NET%208-333333?style=flat&logo=.net&logoColor=white" alt=".NET 8" />
+	<img src="https://img.shields.io/badge/Azure-Functions-0078D7?style=flat&logo=azure-functions&logoColor=white" alt="Azure Functions" />
+	<img src="https://img.shields.io/badge/Azure-CosmosDB-0078D7?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure CosmosDB" />
+	<img src="https://img.shields.io/badge/Azure-Storage_Account-0078D7?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Storage Account" />
+</div>
 
 # Visão Geral
 
